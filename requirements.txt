@@ -1,3 +1,4 @@
 streamlit
+#Siempre que vaya a poner un repositorio hay que poner la versión
 gTTS==2.2.2
 googletrans==3.1.0a0
