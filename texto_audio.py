@@ -7,7 +7,7 @@ from gtts import gTTS
 from PIL import Image
 
 st.title("Interfaces Multimodales.")
-image = Image.open('roma.jpg')
+image = Image.open('sonido.png')
 
 st.image(image, width=200)
 
