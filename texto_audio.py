@@ -66,3 +66,9 @@ def remove_files(n):
 
 
 remove_files(7)
+
+st.subheader("¿Estás satisfecho con el audio?")
+if st.button("Estoy satisfecho😊"):
+  st.write("¡Nos alegra que te haya gustado!")
+else:
+  st.write("¿Te gustó el resultado?")
